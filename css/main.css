@@ -484,5 +484,22 @@ col-4 img:hover {
     .busca-input {
 	width: 161px;
     }
-    
+}
+@media screen and (min-width: 1360px) {
+    main, .content {
+	width: 1060px;
+    }
+    .header-2 {
+	width: 1060px;
+    }
+    .slick-slide {
+	height: 601px;
+    }
+    .slick-dots {
+	left: 47%;
+	top: 538px;
+    }
+    .bloco-imagem {
+	width: 32.056604%;
+    }
 }
