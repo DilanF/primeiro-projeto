@@ -90,6 +90,7 @@ main, .content {
     	height: 34px;
 	background-color: #d4d1c9;
 	border-radius: 5px;
+	padding-left: 8px;
     }
     form > button {
 	background: royalblue;
