@@ -388,6 +388,7 @@ col-4 img:hover {
     }
     form > input {
 	width: 66%;
+    }
 }
 
 @media screen and (max-width: 900px) {
